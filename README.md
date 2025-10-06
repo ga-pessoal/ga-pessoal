@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ga-pessoal
-- 👀 I’m interested in codes
-- 🌱 I’m currently learning QA Engineer
+- 👀 I’m interested in QA
+- 🌱 I’m currently QA Analyst
 - 💞️ I’m looking to collaborate on everything
-- 📫 How to reach me gcostadev@gmail.com or https://www.linkedin.com/in/gabriel-mattos-110689138/
+- 📫 How to reach me gcostadev@gmail.com or [Linkedin](https://www.linkedin.com/in/gabrielmattosqa/)
 
 <!---
 ga-pessoal/ga-pessoal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
