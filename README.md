@@ -4,7 +4,7 @@ Sou um profissional de QA com mais de 5 anos de experiência, apaixonado por tec
 <a href="mailto:gcostadev@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/seu-linkedin-aqui/" target="_blank">
+<a href="https://www.linkedin.com/in/gabrielmattosqa/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
