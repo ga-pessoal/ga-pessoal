@@ -28,12 +28,17 @@ Sou um profissional de QA com mais de 5 anos de experiência, apaixonado por tec
 - Selenium
 - K6
 - Jmeter
-### Ferramentas, CI/CD e Banco de Dados
+### Ferramentas, CI/CD
 - Jenkins
 - Github Actions
 - Gitlab
 - Bitbucket
 - AzureDevOps
+### Banco de Dados
+- MySql
+- PostgresSQL
+- SqlServer
+- MongoDB
 
 ## 📊 Minhas Estatísticas no GitHub
 <div>
