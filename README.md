@@ -9,15 +9,17 @@ Sou um profissional de QA com mais de 5 anos de experiência, apaixonado por tec
 </a>
 
 ## Sobre Mim
-- 🔭 Atualmente, estou focado em aprimorar minhas habilidades com Cypress e K6.
+- 🔭 Atualmente, estou focado em aprimorar minhas habilidades com Cypress e Typescript/Javascript.
 - 🌱 Sou um grande entusiasta da cultura Shift Left Testing, integrando a qualidade desde o início do ciclo de desenvolvimento.
 - 💬 Tenho experiência consolidada na criação e manutenção de frameworks de automação para testes Web, Mobile e API.
+- 💡 Tenho um interesse especial em testes de performance, utilizando ferramentas como K6 e JMeter para garantir a robustez e escalabilidade das aplicações.
 - 🚀 Adoro otimizar pipelines de CI/CD para fornecer feedback rápido e assertivo para as equipes de desenvolvimento.
 - 📫 Como entrar em contato comigo: sinta-se à vontade para me enviar um e-mail ou me adicionar no LinkedIn!
 
 ## 🛠️ Minhas Habilidades
 ### Linguagens de Programação
 - Javascript
+- Typescript
 - Java
 - Python
 ### Automação e Frameworks
